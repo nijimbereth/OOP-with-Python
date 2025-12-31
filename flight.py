@@ -23,3 +23,6 @@ for person in persons:
         print(f"We have successfully added {person} to the flight!")
     else:
         print(f"We have unfortunately no seat left for {person}!")
+
+if __name__=="__main__":
+    flight
