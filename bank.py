@@ -1,4 +1,4 @@
-'''creating a Bank program that managed a particular person's account '''
+'''creating a program that manages customer's bank account '''
 
 class Account():
     def __init__(self):
