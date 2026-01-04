@@ -38,4 +38,5 @@ def main():
     Student.house = "Berlin"
     print(student)
 
-main()
+if __name__=="__main__":
+    main()
